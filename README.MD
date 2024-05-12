@@ -24,3 +24,7 @@ hi this is second commit from rebase branch
 
 ### commit 3 from rebase
 hi this is final commit from rebase branch
+
+### squash
+new branch in git
+we will use this branch
