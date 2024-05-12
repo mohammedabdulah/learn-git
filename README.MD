@@ -27,4 +27,6 @@ hi this is final commit from rebase branch
 
 ### squash
 new branch in git
-we will use this branch
+
+### new commit
+nothing new
