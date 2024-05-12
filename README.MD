@@ -22,3 +22,6 @@ this is rebase branch
 
 ### commit 2 from rebase
 hi this is second commit from rebase branch
+
+### commit 3 from rebase
+hi this is final commit from rebase branch
