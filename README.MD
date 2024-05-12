@@ -19,3 +19,6 @@ to change
 
 ### rebase branch
 this is rebase branch
+
+### commit 2 from rebase
+hi this is second commit from rebase branch
